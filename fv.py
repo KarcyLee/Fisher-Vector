@@ -1,3 +1,5 @@
+#!/usr/bin/python27
+#encoding=utf-8
 import sys, argparse
 from numpy import *
 from sklearn import mixture
